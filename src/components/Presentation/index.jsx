@@ -16,9 +16,9 @@ function Presentation(props) {
 
         Nathan Titeca, né le 25 décembre 1997 dans le Nord de la france. 
         <br></br>
-        <br></br>Après un parcours classique menant à un Bac Economique et Social, je me suis lancé dans le monde du travail et après divers éxpérience dont les plus marquantes sont liés au commerce, j'ai décidé de suivre une voix qui m'avait depuis toujours passionné.
+        <br></br>Après un parcours classique menant à un Bac Economique et Social, je me suis lancé dans le monde du travail et après diverses expériences dont les plus marquantes sont liées au commerce, j'ai décidé de suivre une voie qui m'avait depuis toujours passionné.
         <br></br>
-        <br></br>C'est alors que j'ai commencé une formation sur la plateforme OpenClassRoom afin d'obtenir un diplome de développeur WEB de niveau Bac + 2. 
+        <br></br>C'est alors que j'ai commencé une formation sur la plateforme OpenClassRoom afin d'obtenir un diplôme de développeur WEB de niveau Bac + 2. 
 
 
           </h3>
