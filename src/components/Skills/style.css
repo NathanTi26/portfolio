@@ -1,0 +1,53 @@
+.skills {
+  background: #f7f7f7;
+  border-radius: 25px;
+  padding: 56px 50px;
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: row; 
+  flex-wrap: wrap;
+  gap: 80px;
+  max-width: 1440px;
+  background-color: white;
+  height: auto;
+  justify-content: center;
+}
+
+
+.skills-list {
+  position: relative;
+  border-radius: 10px;
+  display: flex;
+  color: black;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+
+}
+
+.skills-icon {
+
+	max-width: auto;
+	max-height: 75px;
+}
+
+.profil-card h2 {
+
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 25px;
+
+}
+
+.profil-card h3 {
+
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+
+}
+

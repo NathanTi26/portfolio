@@ -1,0 +1,134 @@
+.form {
+
+    border-radius: 25px;
+    padding: 25px 0px 50px 0px;
+
+    gap: 40px;
+    max-width: 1440px;
+    background-color: white;
+
+}
+.form h1 {
+color: black;
+text-align: center;
+
+}
+.form-contact {
+    background-color: rgba(224, 221, 226, 0.199);
+    padding: 3em 7em;
+    margin: 0 auto;
+}
+
+.form-contact h2 {
+    color: #222288;
+    text-align: center;
+    margin-bottom: 1em;
+
+}
+
+
+.form-section {
+    margin-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    display: flex;
+flex-direction: column;
+
+max-width: 800px;
+margin: auto;
+align-items: center;
+}
+
+.text-form {
+    width: 42%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.text-form p {
+    font-size: 1.1em;
+}
+
+.formulaire {
+    width: 50%;
+}
+
+.form-input {
+    display: flex;
+    flex-flow: column;
+    margin-bottom: 0.8em;
+}
+
+label {
+    margin-bottom: 6px;
+    color: #222288;
+}
+
+input {
+    padding: 0.7em;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px 0 rgba(189, 189, 192, 0.233);
+}
+
+.message {
+    resize: none;
+    height: 150px;
+    border: none;
+    border-radius: 15px;
+    padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 5px 20px 0 rgba(70, 70, 78, 0.1);
+}
+
+.submit-message {
+    background-color: #222288;
+    color: white;
+    box-shadow: 0 5px 20px 0 #be97f19a;
+    padding: 0.8em 1.5em;
+    font-size: 18px;
+    border: none;
+    border-radius: 50px;
+    margin-top: 0.7em;
+
+}
+a  {
+    color: #222288;
+
+}
+.submit-message:hover {
+    background-color: #13134b;
+}
+
+.names-input {
+    display: flex;
+    justify-content: space-between;
+}
+
+.names-input .form-lastname,
+.names-input .form-firstname {
+    width: 48%;
+}
+
+.formData[data-error]::after {
+    content: attr(data-error);
+    font-size: 0.9em;
+    font-family: 'Open Sans', sans-serif;
+    color: #e26258;
+    display: block;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: left;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+.formData[data-error-visible="true"]::after {
+    opacity: 1;
+}
+
+.formData[data-error-visible="true"] .text-control {
+    border: 2px solid #e26258;
+}

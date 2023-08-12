@@ -1,0 +1,47 @@
+.profil {
+  background: #f7f7f7;
+  border-radius: 25px;
+  padding: 56px 50px;
+  margin-bottom: 46px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+  gap: 40px;
+  max-width: 1440px;
+background-color: white;
+
+
+}
+
+.profil-card {
+  position: relative;
+  border-radius: 10px;
+  display: flex;
+  height: auto;
+  color: black;
+  flex-direction: column;
+  max-width: 720px ;
+
+}
+
+
+.profil-card h2 {
+
+  font-size: 22px;
+  font-weight: 600;
+  text-decoration: none;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 25px;
+
+}
+
+.profil-card h3 {
+
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+
+}
+
