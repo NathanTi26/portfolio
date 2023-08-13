@@ -33,14 +33,14 @@ function Projets() {
       <article className="apartment-information">
         <div className="collapse-left">
           <Collapse
-            collapseTitle={<h2 className="collapse-title">Language</h2>}
+            collapseTitle={<h2 className="collapse-title">Description du projet</h2>}
             collapseDesc={<p className="description">{data.description}</p>}
           />
         </div>
         <div className="collapse-right">
           <Collapse
             className="collapse-right"
-            collapseTitle={<h2 className="collapse-title">Contraintes</h2>}
+            collapseTitle={<h2 className="collapse-title">Langages</h2>}
             collapseDesc={data.equipments.map((equipments, index) => (
               <li key={`${index}-${equipments}`} className="equipments-list">
                 {equipments}

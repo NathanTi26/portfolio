@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
-import { Link } from 'react-router-dom'
 
+import { HashLink as Link } from 'react-router-hash-link';
 import './style.css'
 
 function Header() {
@@ -17,11 +17,12 @@ function Header() {
           Accueil
         </NavLink>
         <NavLink
-          to="/projets"
+          to="#projects"
           className={({ isActive }) => (isActive ? 'active' : undefined)}
         >
           Projets
         </NavLink>
+
                 <NavLink
           to="/contact"
           className={({ isActive }) => (isActive ? 'active' : undefined)}

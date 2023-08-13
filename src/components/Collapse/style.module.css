@@ -1,6 +1,6 @@
 .collapse_title_closed,
 .collapse_title_open {
-  background-color: rgba(255, 96, 96, 1);
+  background-color:#485fc7;
   color: rgba(255, 255, 255, 1);
   height: 30px;
   font-size: 18px;
@@ -22,13 +22,13 @@
 .collapse_title_open:hover,
 .collapse_title_closed:hover {
   cursor: pointer;
-  box-shadow: 2px 3px 10px rgba(200, 96, 96, 1);
+  box-shadow: 2px 3px 10px #485fc7;
   transition: 0.3s;
 }
 
 .collapse_description {
   background: rgba(246, 246, 246, 1);
-  color: rgba(255, 96, 96, 1);
+  color: #485fc7;
   font-size: 1.3rem;
   font-weight: 400;
   margin: 0px auto;

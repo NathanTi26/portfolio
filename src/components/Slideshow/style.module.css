@@ -1,14 +1,17 @@
 .carrousel_container {
+
+
   height: 415px;
   position: relative;
   margin: 0;
 }
 
 .slide {
+  
   width: 100%;
   height: 100%;
   border-radius: 25px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .arrow_container {

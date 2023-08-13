@@ -1,156 +1,90 @@
 [
 	{
-		"id": "c67ab8a7",
+		"id": "1",
 		"title": "Booki - Recherche d'hébergement et activités",
-		"cover": "https://cdn.discordapp.com/attachments/649380728835932173/1139161898248572968/image.png",
+		"cover": "https://cdn.discordapp.com/attachments/1140311159896019014/1140311290305335366/booki.png",
 		"pictures": [
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-2.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-3.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-4.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-5.jpg"
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311290305335366/booki.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311290829602826/booki2.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311291093852221/booki3.png"
 		],
-		"description": "Votre maison loin de chez vous. Que vous veniez de l'autre bout du monde, ou juste de quelques stations de RER, vous vous sentirez chez vous dans notre appartement.",
-		"host": {
-			"name": "Nathalie Jean",
-			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-12.jpg"
-		},
-		"rating": "5",
-		"location": "Ile de France - Paris 17e",
+		"description": "D'après une maquette, réalisation de l'ensemble de la partie front-end du site en desktop first. Le site est responsive et s'adapte à tout type de support.",
+		"location": "Développement Front-End",
 		"equipments": [
-			"Équipements de base",
-			"Micro-Ondes",
-			"Douche italienne",
-			"Frigo",
-			"WIFI"
-		],
-		"tags": [
-			"Batignolle",
-			"Montmartre"
+			"HTML",
+			"CSS"
 		]
 	},
 	{
-		"id": "b9123946",
-		"title": "Magnifique appartement proche Canal Saint Martin",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"id": "2",
+		"title": "Kasa - Location d'appartements entre particulier",
+		"cover": "https://cdn.discordapp.com/attachments/1140311159896019014/1140311291358105660/kasa.png",
 		"pictures": [
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-2.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-3.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-4.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-5.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-6.jpg"
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311291358105660/kasa.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311291613937804/kasa2.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311291928518696/kasa3.png"
 		],
-		"description": "Profitez du charme de la vie parisienne dans un magnifique appartement. A 3 minutes à pied du Canl Saint Martin, vous serez proche des transports, mais également de nombreux commerces. L'appartement est tout équipé, et possède également un parking pour ceux qui souhaitent se déplacer en voiture.",
-		"host": {
-			"name": "Della Case",
-			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
-		},
-		"rating": "4",
-		"location": "Ile de France - Paris 10e",
+		"description": "Kasa est un site de location d'appartement entre particulier développé sous React. Le site a été réalisé suite à une maquette proposé par le client.",
+		"location": "Développement front-end - React",
 		"equipments": [
-			"Parking",
-			"Sèche Cheveux",
-			"Machine à laver",
-			"Wi-fi",
-			"Cuisine équipée",
-			"Télévision"
-		],
-		"tags": [
-			"Canal Saint Martin",
-			"République",
-			"Appartement"
+			"HTML",
+			"CSS",
+			"Javascript",
+			"React"
 		]
 	},
 	{
-		"id": "46d188c5",
-		"title": "Studio de charme - Buttes Chaumont",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
+		"id": "3",
+		"title": "Sophie bluel - Portfolio",
+		"cover": "https://cdn.discordapp.com/attachments/1140311159896019014/1140311318210023469/sophiebluel.png",
 		"pictures": [
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-2.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-3.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-4.jpg"
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311318210023469/sophiebluel.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311318541369344/sophiebluel2.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311318927253566/sophiebluel3.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311319225045062/sophiebluel4.png"
 		],
-		"description": "À seulement deux pas des Buttes Chaumont, venez découvrir Paris dans ce studio tout équipé. Entièrement équipé pour votre confort et élégamment décoré, il vous permettra de vivre comme un Parisien le temps de votre séjour.",
-		"host": {
-			"name": "Franck Maher",
-			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
-		},
-		"rating": "3",
-		"location": "Ile de France - Paris 20e",
+		"description": "Sophie Bluel souhaitait développé son site afin de mettre en avant ses travaux. Après une maquette proposé, le site a été développé en HTML, CSS et javascript. Le back-end était déjà développé.",
+
+		"location": "Développement front-end - Javascript",
 		"equipments": [
-			"Wi-fi",
-			"Cuisine équipée",
-			"Télévision",
-			"Sèche Cheveux"
-		],
-		"tags": [
-			"Buttes Chaumont",
-			"Laumière",
-			"Studio"
+			"HTML",
+			"CSS",
+			"Javascript"
 		]
 	},
 	{
-		"id": "7af00cd6",
-		"title": "Nid douillet au coeur du 11ème",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
+		"id": "4",
+		"title": "Nina Carducci - Site de photographie",
+		"cover": "https://cdn.discordapp.com/attachments/1140311159896019014/1140311292209528932/ninacarducci.png",
 		"pictures": [
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-2.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-3.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-4.jpg"
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311292209528932/ninacarducci.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311292536692826/ninacarducci2.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311290049470544/ninacarducci3.png"
 		],
-		"description": "Venez découvrir Paris en séjournant dans ce nid douillet au coeur du 11ème. La vue sur le parc résidentiel saura vous reposer de vos longues journées de tourisme dans la capitale française. Et pour les plus fêtards d'entre vous, la rue Jean Pierre Timbaud vous permettra de découvrir la night-life parisienne à seulement 5 minutes de l'appartement.",
-		"host": {
-			"name": "Della Case",
-			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
-		},
-		"rating": "3",
-		"location": "Ile de France - Paris 11e",
+		"description": "Suite à un démarchage, Nina Carducci a sollicité mes services pour optimiser son site internet, mais également corriger certains bugs. Les performances, le SEO ainsi que l'accessibilité ont donc été poussés à leur maximum.",
+
+		"location": "Optimisation SEO et débuggage",
 		"equipments": [
-			"Micro-Ondes",
-			"Wi-fi",
-			"Chambre Séparée",
-			"Climatisation",
-			"Télévision"
-		],
-		"tags": [
-			"Parmentier",
-			"Marais",
-			"Parc",
-			"Night Life"
+			"HTML",
+			"CSS",
+			"Javascript"
+
 		]
 	},
 	{
-		"id": "0979876d",
-		"title": "Appartement de Standing - 10e",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
+		"id": "5",
+		"title": "Mon vieux grimoire - Notation de livre",
+		"cover": "https://cdn.discordapp.com/attachments/1140311159896019014/1140311319514447922/vieuxgrimoire.png",
 		"pictures": [
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-2.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-3.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-4.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-5.jpg",
-			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-6.jpg"
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311319514447922/vieuxgrimoire.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311319917109328/vieuxgrimoire2.png",
+			"https://cdn.discordapp.com/attachments/1140311159896019014/1140311317895454870/vieuxgrimoire3.png"
 		],
-		"description": "Ce loft entièrement rénové, et équipé de meubles de luxe saura vous séduire. Idéalement situé dans le 10ème arrondissement, vous déplacer dans Paris sera un véritable jeu d'enfant.",
-		"host": {
-			"name": "Franck Maher",
-			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-2.jpg"
-		},
-		"rating": "5",
-		"location": "Ile de France - Paris 10e",
+		"description": "Notre société a été mandatée pour réaliser le back end du site Mon vieux Grimoire. J'ai donc pu réaliser l'ajout, la suppression, la modification et la notation des livres ainsi que le système de connexion.",
+
+		"location": "Développement Back-End - Javascript",
 		"equipments": [
-			"Frigo Américain",
-			"Sèche Cheveux",
-			"Wi-fi",
-			"Chambre Séparée",
-			"Parking"
-		],
-		"tags": [
-			"Goncourt",
-			"Proche commerces"
+			"Javascript"
 		]
 	}
 	
