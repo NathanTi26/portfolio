@@ -18,7 +18,7 @@ function Header() {
         </NavLink>
         <NavLink
           to="#projects"
-          className={({ isActive }) => (isActive ? 'active' : undefined)}
+
         >
           Projets
         </NavLink>
